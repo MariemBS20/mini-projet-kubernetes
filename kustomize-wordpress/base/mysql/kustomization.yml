@@ -1,0 +1,8 @@
+resources:
+- mysql-pv.yml
+- mysql-pvc.yml
+- mysql-secret.yml  
+- mysql-deploy.yml
+- mysql-svc.yml   
+
+
